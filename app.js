@@ -12,7 +12,7 @@ const notes = require('./notes')
 yargs.version('1.1.0')
 
 // create add command
-// hello anh em, chao mung anh em
+// hello anh em
 
 yargs.command({
     command: 'add',
